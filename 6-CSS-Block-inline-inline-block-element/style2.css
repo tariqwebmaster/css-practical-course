@@ -1,0 +1,12 @@
+
+ul {
+    list-style: none;
+    background-color: pink;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    /* width: 100px; */
+    padding: 20px;
+}
